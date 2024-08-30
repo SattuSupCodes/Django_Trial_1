@@ -23,4 +23,8 @@ class Choice(models.Model):
 (e.g. question_text or pub_date) 
 is the field's name, in machine-friendly format. 
 You'll use this value in your Python code, 
-and your database will use it as the column name.'''
+and your database will use it as the column name. hihi
+
+bohot mushkil sa lag rha but we will NOT BACK DOWN
+CAUSE NEVER BACK DOWN NEVER WHAT?
+NEVER GIVE UPPPPPPP'''
