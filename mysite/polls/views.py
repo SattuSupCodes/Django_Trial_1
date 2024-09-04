@@ -14,5 +14,12 @@ def index(request):
 def hello(request):
    pass
 
+def app(request):
+   context = {
+      'name' : 'name',
+      
+   }
+   return render(request, 'tryapp.html', context)
+
 
 # i feel sooooooooooooooooooooooooooooooooooooooo fucked but hey, that's life of an engineer
