@@ -6,4 +6,4 @@ urlpatterns = [
     path("", views.index, name="index"),
     path("hello/", views.hello),
 ]
-# sneaky snitch
+# sneaky snitch dingdingding
