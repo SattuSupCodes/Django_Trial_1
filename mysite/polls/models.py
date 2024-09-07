@@ -32,4 +32,5 @@ and your database will use it as the column name. hihi
 
 bohot mushkil sa lag rha but we will NOT BACK DOWN
 CAUSE NEVER BACK DOWN NEVER WHAT?
-NEVER GIVE UPPPPPPP'''
+NEVER GIVE UPPPPPPP''' 
+# streak broke again smh
